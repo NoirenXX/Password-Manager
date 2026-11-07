@@ -27,7 +27,7 @@ Password Manager is an application for storing logins and passwords for various 
 
 ### From source
 
-1. Install Python 3.14 or 3.15 (the project was developed on 3.14.2 and tested on 13.15.2).
+1. Install Python 3.14 or 3.15 (the project was developed on 3.14.2 and tested on 3.15.2).
 2. Clone the repository:
    ```bash
    git clone https://github.com/NoirenXX/Password-Manager.git
